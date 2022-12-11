@@ -1,0 +1,6 @@
+/papertocode/data
+/papertocode/application_data
+/papertocode/training_checkpoints
+/papertocode/siamesemodel.h5
+/final-verification/images
+/contrastloss/examples
