@@ -3,4 +3,6 @@
 /papertocode/training_checkpoints
 /papertocode/siamesemodel.h5
 /final-verification/images
+/final-verification/nn4.small2.v1.h5
+/final-verification/shape_predictor_68_face_landmarks.dat
 /contrastloss/examples
